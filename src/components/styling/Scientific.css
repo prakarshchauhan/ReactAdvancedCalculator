@@ -1,0 +1,27 @@
+/* .button-grid1{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(5,80px);
+    gap:2px;
+}
+
+button{
+    border-radius: 10px;
+    height: 40px;
+}
+
+.evaluator{
+    display: block;
+    height: 30px;
+    border-bottom: none;
+    width: 400px;
+    font-size: 20px;
+    text-align: right;
+}
+.expression{
+    height: 40px;
+    width: 400px;
+    border-top:none ;
+    font-size: 20px;
+    text-align: right;
+} */
